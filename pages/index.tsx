@@ -5,7 +5,7 @@ import FreelancerCard from '../Components/FreelancerCard';
 import JobPost from '../Components/JobPost';
 import Header from '../Components/Header';
 import Head from 'next/head';
-import { FormattedFreelancer } from '../types/freelancer';
+import { FormattedFreelancer } from '../types/Freelancer';
 import AIRecommendations from '../Components/AIRecommendations';
 import { analyzeTopSkills } from '../utils/ai';
 
